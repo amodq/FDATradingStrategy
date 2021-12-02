@@ -1,5 +1,1 @@
-﻿This is our quant research project for Stat 198
-
-To do:
--technical indicators
--implement a strategy based on the model and evaluate
+This is a project trying to use FDA catalysts as the basis of a swing trading strategy. Our optimal buy and sell times are determined by a convolutional neural network, trained on technical indicators transformed into a grayscale image. 
